@@ -16,4 +16,6 @@ where ruby.rb is input file that contains correct ruby program's text and where.
 JSON is not formated here, so smth like   http://json.parser.online.fr can be used.  
 Lexer is located at  parser_yylex function, that's called inside yylex.
 
+Some of the json's output directives are described here http://www.math.spbu.ru/user/dlebedin/concepts.pdf
+
 Note. Console is clogged with debug informaion.
